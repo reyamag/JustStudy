@@ -1,5 +1,5 @@
 # JustStudy
-Android mobile application that was developed in Java.
+Android mobile application that was developed in Android Studios using Java.
 
 Our application’s sole purpose is to help give the user a tool to assist them in studying for subjects
 they need to study for. The software application we are going to develop is a learning tool that uses
@@ -22,6 +22,9 @@ application. For our application, it will contain the flash card mode but have a
 able to allow the user to input their information to create their own flash cards instead of the flash
 cards being already pre-made. Our vision for our flash card would have the front of the flash card to
 be the text and the other side being the definition.
+
+Project created and developed by:
+Reyniel Maglian, David Cao, Trung Ngo, Bradley Myers, Stephen Cordasco, Hemanth Sivakumar
 
 ---------------------------------------------------------------------------------------------------------------
 
